@@ -1,2 +1,6 @@
 # hello-world
-Just another repository
+
+
+Hi there
+
+My name is Craig McAlister and I am an MSc Software Development Student at Strathclyde.
